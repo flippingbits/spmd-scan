@@ -1,0 +1,12 @@
+make clean && make
+./column_scan 268435456 0.0
+./column_scan 268435456 0.1
+./column_scan 268435456 0.2
+./column_scan 268435456 0.3
+./column_scan 268435456 0.4
+./column_scan 268435456 0.5
+./column_scan 268435456 0.6
+./column_scan 268435456 0.7
+./column_scan 268435456 0.8
+./column_scan 268435456 0.9
+./column_scan 268435456 1.0
